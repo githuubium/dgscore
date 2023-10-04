@@ -1,4 +1,4 @@
-.debug{outline:1px solid red}@charset "UTF-8";/*!
+.debug{outline:1px solid red}body{background:linear-gradient(135deg,#2d0c0c,#000000);background-size:100% 100%;background-repeat:no-repeat;background-attachment:fixed;font-family:Arial,sans-serif;margin:0;padding:0}@charset "UTF-8";/*!
 * Bootstrap  v5.3.1 (https://getbootstrap.com/)
 * Copyright 2011-2023 The Bootstrap Authors
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
